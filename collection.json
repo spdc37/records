@@ -1169,7 +1169,13 @@
       "artist": "MC Solaar",
       "genre": "Hip Hop",
       "year": "1993"
+    },
+    {
+      "album": "compilation",
+      "artist": "Michel Delpech",
+      "genre": "Chanson",
+      "year": "2024"
     }
   ],
-  "updated_at": "2026-01-20T04:06:01.873049+00:00"
+  "updated_at": "2026-01-20T15:33:10.087631+00:00"
 }
