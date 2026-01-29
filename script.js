@@ -34,6 +34,45 @@
   let collectionMeta = null;
   let wantlistMeta = null;
 
+  function setView(view) {
+    currentView = view === 'wantlist' ? 'wantlist' : 'collection';
+
+    const select = document.getElementById('view-select');
+    if (select) {
+      select.value = currentView;
+    }
+
+    try {
+      localStorage.setItem('view', currentView);
+    } catch (e) {
+      // ignore storage errors
+    }
+
+    const meta = currentView === 'wantlist' ? wantlistMeta : collectionMeta;
+    updateLastUpdated(meta);
+    applySearchAndSort();
+  }
+
+  function initView() {
+    let initial = 'collection';
+    try {
+      const stored = localStorage.getItem('view');
+      if (stored === 'wantlist' || stored === 'collection') {
+        initial = stored;
+      }
+    } catch (e) {
+      // ignore storage errors
+    }
+
+    currentView = initial;
+
+    const select = document.getElementById('view-select');
+    if (select) {
+      select.value = initial;
+    }
+  }
+
+
   function renderTable(data) {
     const tbody = document.querySelector('#collection-table tbody');
     const countEl = document.getElementById('count');
@@ -215,9 +254,7 @@
         wantlistMeta = null;
       }
 
-      updateLastUpdated(currentView === 'wantlist' ? wantlistMeta : collectionMeta);
-
-      applySearchAndSort();
+      setView(currentView);
       setupSearch();
       setupSorting();
     } catch (err) {
@@ -242,16 +279,14 @@
     if (!select) return;
 
     select.addEventListener('change', () => {
-      currentView = select.value === 'wantlist' ? 'wantlist' : 'collection';
-
-      const meta = currentView === 'wantlist' ? wantlistMeta : collectionMeta;
-      updateLastUpdated(meta);
-      applySearchAndSort();
+      const next = select.value === 'wantlist' ? 'wantlist' : 'collection';
+      setView(next);
     });
   }
 
   document.addEventListener('DOMContentLoaded', () => {
     initTheme();
+    initView();
 
     const toggleBtn = document.getElementById('theme-toggle');
     if (toggleBtn) {
