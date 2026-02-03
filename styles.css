@@ -77,6 +77,113 @@ body,
   gap: 0.75rem;
 }
 
+.site-switcher {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.site-title-toggle {
+  margin: 0;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  font-size: clamp(1.3rem, 2vw, 1.6rem);
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease,
+    box-shadow 0.2s ease,
+    transform 0.15s ease;
+}
+
+.site-title-toggle:hover,
+.site-switcher.is-open .site-title-toggle {
+  background-color: color-mix(in srgb, var(--accent) 15%, var(--bg-elevated) 85%);
+  color: var(--fg);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.1);
+  transform: translateY(-1px);
+}
+
+.site-title-toggle:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.site-title-caret {
+  font-size: 0.75em;
+  color: var(--muted);
+  transition: transform 0.2s ease, color 0.2s ease;
+}
+
+.site-switcher.is-open .site-title-caret {
+  transform: rotate(180deg);
+  color: var(--accent);
+}
+
+.site-menu {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  margin-top: 0.4rem;
+  min-width: 220px;
+  padding: 0.4rem;
+  border-radius: 0.75rem;
+  background-color: var(--bg-elevated);
+  border: 1px solid var(--border-soft);
+  box-shadow: var(--shadow-soft);
+  opacity: 0;
+  transform: translateY(6px) scale(0.97);
+  transform-origin: top left;
+  pointer-events: none;
+  transition:
+    opacity 0.18s ease-out,
+    transform 0.18s ease-out,
+    box-shadow 0.18s ease-out;
+  z-index: 20;
+}
+
+.site-switcher.is-open .site-menu {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  pointer-events: auto;
+}
+
+.site-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.4rem 0.55rem;
+  border-radius: 0.6rem;
+  color: var(--fg);
+  text-decoration: none;
+  font-size: 0.85rem;
+  transition:
+    background-color 0.2s ease,
+    color 0.2s ease,
+    transform 0.12s ease;
+}
+
+.site-menu-item:hover {
+  background-color: color-mix(in srgb, var(--accent) 15%, var(--bg) 85%);
+  transform: translateY(-1px);
+}
+
+.site-menu-logo {
+  width: 26px;
+  height: 26px;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.12);
+}
+
+.site-menu-label {
+  white-space: nowrap;
+}
+
 .view-switch {
   display: inline-flex;
   align-items: center;
