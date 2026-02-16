@@ -1175,7 +1175,13 @@
       "artist": "Michel Delpech",
       "genre": "Chanson",
       "year": "2024"
+    },
+    {
+      "album": "Le double best of",
+      "artist": "Aznavour",
+      "genre": "Chanson",
+      "year": "2019"
     }
   ],
-  "updated_at": "2026-02-15T04:52:05.287634+00:00"
+  "updated_at": "2026-02-16T04:56:58.802742+00:00"
 }

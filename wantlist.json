@@ -1,4 +1,41 @@
 {
-  "items": [],
-  "updated_at": "2026-02-15T04:52:05.287661+00:00"
+  "items": [
+    {
+      "album": "Talkin' blues",
+      "artist": "Bob Marley and The Wailers",
+      "genre": "Reggae",
+      "year": "1991"
+    },
+    {
+      "album": "Uprising",
+      "artist": "Bob Marley and The Wailers",
+      "genre": "Reggae",
+      "year": "1980"
+    },
+    {
+      "album": "Catch a fire",
+      "artist": "Bob Marley and The Wailers",
+      "genre": "Reggae",
+      "year": "1973"
+    },
+    {
+      "album": "Confrontation",
+      "artist": "Bob Marley and The Wailers",
+      "genre": "Reggae",
+      "year": "1983"
+    },
+    {
+      "album": "Burnin'",
+      "artist": "Bob Marley and The Wailers",
+      "genre": "Reggae",
+      "year": "1973"
+    },
+    {
+      "album": "Boys don't Cry",
+      "artist": "The Cure",
+      "genre": "Rock",
+      "year": "1979"
+    }
+  ],
+  "updated_at": "2026-02-16T04:56:58.802772+00:00"
 }
