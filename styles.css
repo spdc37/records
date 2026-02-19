@@ -199,10 +199,6 @@ body,
   font-size: 0.8rem;
 }
 
-.view-switch-label {
-  color: var(--muted);
-}
-
 #view-select {
   border: none;
   background: transparent;
