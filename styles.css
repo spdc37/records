@@ -318,6 +318,20 @@ body,
   white-space: nowrap;
 }
 
+.people-chip {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.05rem 0.5rem;
+  margin-right: 0;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background-color: color-mix(in srgb, var(--accent) 25%, var(--bg-elevated) 75%);
+  color: var(--fg);
+  font-size: 0.7rem;
+  white-space: nowrap;
+}
+
 .loading {
   text-align: center;
   color: var(--muted);

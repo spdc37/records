@@ -4,38 +4,51 @@
       "album": "Talkin' blues",
       "artist": "Bob Marley and The Wailers",
       "genre": "Reggae",
+      "people": [
+        "Nico"
+      ],
       "year": "1991"
     },
     {
       "album": "Uprising",
       "artist": "Bob Marley and The Wailers",
       "genre": "Reggae",
+      "people": [
+        "Cécile",
+        "Nico"
+      ],
       "year": "1980"
     },
     {
       "album": "Catch a fire",
       "artist": "Bob Marley and The Wailers",
       "genre": "Reggae",
+      "people": [],
       "year": "1973"
     },
     {
       "album": "Confrontation",
       "artist": "Bob Marley and The Wailers",
       "genre": "Reggae",
+      "people": [],
       "year": "1983"
     },
     {
       "album": "Burnin'",
       "artist": "Bob Marley and The Wailers",
       "genre": "Reggae",
+      "people": [],
       "year": "1973"
     },
     {
       "album": "Boys don't Cry",
       "artist": "The Cure",
       "genre": "Rock",
+      "people": [
+        "Cécile"
+      ],
       "year": "1979"
     }
   ],
-  "updated_at": "2026-03-02T04:46:09.975723+00:00"
+  "updated_at": "2026-03-02T16:57:38.443262+01:00"
 }

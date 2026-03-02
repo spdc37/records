@@ -468,6 +468,8 @@
       return;
     }
 
+    const shouldShowPeople = currentView === 'wantlist';
+
     data.forEach((item) => {
       const tr = document.createElement('tr');
 
@@ -488,6 +490,28 @@
       tr.appendChild(yearTd);
 
       tbody.appendChild(tr);
+
+      if (shouldShowPeople && Array.isArray(item.people) && item.people.length > 0) {
+        const artistWrapper = document.createElement('div');
+        artistWrapper.style.display = 'flex';
+        artistWrapper.style.flexDirection = 'column';
+        artistWrapper.style.alignItems = 'flex-start';
+        artistWrapper.style.gap = '0.1rem';
+
+        item.people.forEach((person) => {
+          const chip = document.createElement('span');
+          chip.className = 'people-chip';
+          chip.textContent = person;
+          artistWrapper.appendChild(chip);
+        });
+
+        const artistText = document.createElement('span');
+        artistText.textContent = artistTd.textContent;
+        artistWrapper.appendChild(artistText);
+
+        artistTd.textContent = '';
+        artistTd.appendChild(artistWrapper);
+      }
     });
 
     if (countEl) {
