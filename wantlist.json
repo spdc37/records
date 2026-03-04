@@ -14,7 +14,6 @@
       "artist": "Bob Marley and The Wailers",
       "genre": "Reggae",
       "people": [
-        "Cécile",
         "Nico"
       ],
       "year": "1980"
@@ -23,21 +22,27 @@
       "album": "Catch a fire",
       "artist": "Bob Marley and The Wailers",
       "genre": "Reggae",
-      "people": [],
+      "people": [
+        "Nico"
+      ],
       "year": "1973"
     },
     {
       "album": "Confrontation",
       "artist": "Bob Marley and The Wailers",
       "genre": "Reggae",
-      "people": [],
+      "people": [
+        "Nico"
+      ],
       "year": "1983"
     },
     {
       "album": "Burnin'",
       "artist": "Bob Marley and The Wailers",
       "genre": "Reggae",
-      "people": [],
+      "people": [
+        "Nico"
+      ],
       "year": "1973"
     },
     {
@@ -45,10 +50,73 @@
       "artist": "The Cure",
       "genre": "Rock",
       "people": [
-        "Cécile"
+        "Nico"
       ],
       "year": "1979"
+    },
+    {
+      "album": "Territory",
+      "artist": "The Blaze",
+      "genre": "Electronic",
+      "people": [
+        "Cécile"
+      ],
+      "year": "2017"
+    },
+    {
+      "album": "Dancehall",
+      "artist": "The Blaze",
+      "genre": "Electronic",
+      "people": [
+        "Cécile"
+      ],
+      "year": "2018"
+    },
+    {
+      "album": "The 2nd Law",
+      "artist": "Muse",
+      "genre": "Rock",
+      "people": [
+        "Cécile"
+      ],
+      "year": "2012"
+    },
+    {
+      "album": "Black Holes and Revelations",
+      "artist": "Muse",
+      "genre": "Rock",
+      "people": [
+        "Cécile"
+      ],
+      "year": "2006"
+    },
+    {
+      "album": "Absolution",
+      "artist": "Muse",
+      "genre": "Rock",
+      "people": [
+        "Cécile"
+      ],
+      "year": "2003"
+    },
+    {
+      "album": "19",
+      "artist": "Adèle",
+      "genre": "Chanson",
+      "people": [
+        "Cécile"
+      ],
+      "year": "2008"
+    },
+    {
+      "album": "21",
+      "artist": "Adèle",
+      "genre": "Chanson",
+      "people": [
+        "Cécile"
+      ],
+      "year": "2011"
     }
   ],
-  "updated_at": "2026-03-03T04:44:26.914517+00:00"
+  "updated_at": "2026-03-04T04:27:29.866921+00:00"
 }
