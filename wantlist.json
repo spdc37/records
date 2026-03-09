@@ -116,7 +116,25 @@
         "Cécile"
       ],
       "year": "2011"
+    },
+    {
+      "album": "Hybrid Theory",
+      "artist": "Linkin Park",
+      "genre": "Rock",
+      "people": [
+        "Cécile"
+      ],
+      "year": "2000"
+    },
+    {
+      "album": "Meteora",
+      "artist": "Linkin Park",
+      "genre": "Rock",
+      "people": [
+        "Cécile"
+      ],
+      "year": "2003"
     }
   ],
-  "updated_at": "2026-03-08T04:41:16.582676+00:00"
+  "updated_at": "2026-03-09T04:49:27.716957+00:00"
 }
