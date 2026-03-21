@@ -1181,7 +1181,61 @@
       "artist": "Aznavour",
       "genre": "Chanson",
       "year": "2019"
+    },
+    {
+      "album": "original soundtrack recording",
+      "artist": "The blues brothers",
+      "genre": "Rock, Blues",
+      "year": "1980"
+    },
+    {
+      "album": "Disco 78",
+      "artist": "Ennio Morricone",
+      "genre": "Bande Originale",
+      "year": "1977"
+    },
+    {
+      "album": "Remix me myself and i",
+      "artist": "De La Soul",
+      "genre": "Rap",
+      "year": ""
+    },
+    {
+      "album": "American star'n bars",
+      "artist": "Neil young",
+      "genre": "Folk, World, & Country",
+      "year": "1977"
+    },
+    {
+      "album": "Marathon",
+      "artist": "Santana",
+      "genre": "Rock",
+      "year": "1979"
+    },
+    {
+      "album": "Eagles live 86",
+      "artist": "the eagles",
+      "genre": "pop",
+      "year": "1980"
+    },
+    {
+      "album": "Live",
+      "artist": "Bob Marley & The Wailers",
+      "genre": "Reggae",
+      "year": "1975"
+    },
+    {
+      "album": "7 les trompettes de la renommé",
+      "artist": "Georges brassens",
+      "genre": "Chanson",
+      "year": ""
+    },
+    {
+      "album": "11 fernande",
+      "artist": "Georges brassens",
+      "genre": "Chanson",
+      "year": ""
     }
   ],
-  "updated_at": "2026-03-20T04:44:54.056631+00:00"
+  "updated_at": "2026-03-21T04:24:54.296839+00:00"
 }
