@@ -1235,7 +1235,19 @@
       "artist": "Georges brassens",
       "genre": "Chanson",
       "year": ""
+    },
+    {
+      "album": "Deep purple in concert",
+      "artist": "Deep purple",
+      "genre": "Rock",
+      "year": "1971"
+    },
+    {
+      "album": "polka",
+      "artist": "Thomas valverde",
+      "genre": "Classical",
+      "year": "2023"
     }
   ],
-  "updated_at": "2026-03-21T04:24:54.296839+00:00"
+  "updated_at": "2026-03-22T04:50:16.640806+00:00"
 }
