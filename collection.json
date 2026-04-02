@@ -19,6 +19,24 @@
       "year": "1979"
     },
     {
+      "album": "Flick of the switch",
+      "artist": "AC/DC",
+      "genre": "Rock",
+      "year": "1983"
+    },
+    {
+      "album": "Let there be rock",
+      "artist": "AC/DC",
+      "genre": "Rock",
+      "year": "1977"
+    },
+    {
+      "album": "For those about the rock",
+      "artist": "AC/DC",
+      "genre": "Rock",
+      "year": "1981"
+    },
+    {
       "album": "30",
       "artist": "Adèle",
       "genre": "Chanson",
@@ -71,6 +89,12 @@
       "artist": "Aretha Franklin",
       "genre": "Funk / Soul",
       "year": "1967"
+    },
+    {
+      "album": "Le double best of",
+      "artist": "Aznavour",
+      "genre": "Chanson",
+      "year": "2019"
     },
     {
       "album": "The Right Night And Barry White",
@@ -149,6 +173,18 @@
       "artist": "Bob Marley & The Wailers",
       "genre": "Reggae",
       "year": "1974"
+    },
+    {
+      "album": "Kaya",
+      "artist": "Bob Marley & The Wailers",
+      "genre": "Reggae",
+      "year": "2015"
+    },
+    {
+      "album": "Live",
+      "artist": "Bob Marley & The Wailers",
+      "genre": "Reggae",
+      "year": "1975"
     },
     {
       "album": "Paradise",
@@ -319,6 +355,18 @@
       "year": "1991"
     },
     {
+      "album": "Remix me myself and i",
+      "artist": "De La Soul",
+      "genre": "Rap",
+      "year": ""
+    },
+    {
+      "album": "Deep purple in concert",
+      "artist": "Deep purple",
+      "genre": "Rock",
+      "year": "1971"
+    },
+    {
       "album": "Diana",
       "artist": "Diana Ross",
       "genre": "Funk / Soul",
@@ -427,6 +475,18 @@
       "year": ""
     },
     {
+      "album": "Golden records volume 3",
+      "artist": "Elvis Presley",
+      "genre": "Rock",
+      "year": ""
+    },
+    {
+      "album": "Disco 78",
+      "artist": "Ennio Morricone",
+      "genre": "Bande Originale",
+      "year": "1977"
+    },
+    {
       "album": "Sunset (Bird Of Prey)",
       "artist": "Fatboy Slim",
       "genre": "Electronic",
@@ -475,6 +535,18 @@
       "year": ""
     },
     {
+      "album": "7 les trompettes de la renommé",
+      "artist": "Georges brassens",
+      "genre": "Chanson",
+      "year": ""
+    },
+    {
+      "album": "11 fernande",
+      "artist": "Georges brassens",
+      "genre": "Chanson",
+      "year": ""
+    },
+    {
       "album": "Best Of Electronic Disco",
       "artist": "Giorgio Moroder",
       "genre": "Electronic, Funk / Soul, Pop",
@@ -517,6 +589,12 @@
       "year": "1987"
     },
     {
+      "album": "Greatest Hits",
+      "artist": "Jackson five",
+      "genre": "Funk / Soul, Pop",
+      "year": " "
+    },
+    {
       "album": "Jaco Pastorius",
       "artist": "Jaco Pastorius",
       "genre": "Jazz, Funk / Soul",
@@ -539,6 +617,12 @@
       "artist": "Jacques Brel",
       "genre": "Chanson",
       "year": "1966"
+    },
+    {
+      "album": "Higelin a mogador",
+      "artist": "Jacques higelin",
+      "genre": "Chanson",
+      "year": "1981"
     },
     {
       "album": "Zanaka",
@@ -739,6 +823,12 @@
       "year": "1991"
     },
     {
+      "album": "Prose combat",
+      "artist": "MC Solaar",
+      "genre": "Hip Hop",
+      "year": "1993"
+    },
+    {
       "album": "Metallica",
       "artist": "Metallica",
       "genre": "Rock",
@@ -769,6 +859,12 @@
       "year": "1991"
     },
     {
+      "album": "compilation",
+      "artist": "Michel Delpech",
+      "genre": "Chanson",
+      "year": "2024"
+    },
+    {
       "album": "Fugain Et Le Big Bazar N°2",
       "artist": "Michel Fugain & Le Big Bazar",
       "genre": "Rock, Pop",
@@ -797,6 +893,12 @@
       "artist": "myd",
       "genre": "Electronic",
       "year": "2025"
+    },
+    {
+      "album": "American star'n bars",
+      "artist": "Neil young",
+      "genre": "Folk, World, & Country",
+      "year": "1977"
     },
     {
       "album": "MTV Unplugged In New York",
@@ -895,10 +997,22 @@
       "year": "1981"
     },
     {
+      "album": "The best of Sade",
+      "artist": "Sade",
+      "genre": "Jazz, Funk / Soul, Blues",
+      "year": "1994"
+    },
+    {
       "album": "Abraxas",
       "artist": "Santana",
       "genre": "Rock",
       "year": "1970"
+    },
+    {
+      "album": "Marathon",
+      "artist": "Santana",
+      "genre": "Rock",
+      "year": "1979"
     },
     {
       "album": "Serge Gainsbourg",
@@ -991,6 +1105,12 @@
       "year": ""
     },
     {
+      "album": "original soundtrack recording",
+      "artist": "The blues brothers",
+      "genre": "Rock, Blues",
+      "year": "1980"
+    },
+    {
       "album": "Light Up The Night",
       "artist": "The Brothers Johnson",
       "genre": "Funk / Soul",
@@ -1027,6 +1147,12 @@
       "year": "1971"
     },
     {
+      "album": "Eagles live 86",
+      "artist": "the eagles",
+      "genre": "pop",
+      "year": "1980"
+    },
+    {
       "album": "Third Album",
       "artist": "The Jackson 5",
       "genre": "Funk / Soul, Pop",
@@ -1061,6 +1187,18 @@
       "artist": "The Temptations",
       "genre": "Funk / Soul",
       "year": "1972"
+    },
+    {
+      "album": "polka",
+      "artist": "Thomas valverde",
+      "genre": "Classical",
+      "year": "2023"
+    },
+    {
+      "album": "Black beauty",
+      "artist": "Tina turner and Ike",
+      "genre": "Funk / Soul",
+      "year": ""
     },
     {
       "album": "It's Album Time",
@@ -1105,6 +1243,12 @@
       "year": "2022"
     },
     {
+      "album": "A star is born",
+      "artist": "Various",
+      "genre": "Bande Originale",
+      "year": "2018"
+    },
+    {
       "album": "Ok Cowboy",
       "artist": "Vitalic",
       "genre": "Electronic",
@@ -1139,139 +1283,7 @@
       "artist": "ZZ top",
       "genre": "Rock",
       "year": "1973"
-    },
-    {
-      "album": "Greatest Hits",
-      "artist": "Jackson five",
-      "genre": "Funk / Soul, Pop",
-      "year": " "
-    },
-    {
-      "album": "A star is born",
-      "artist": "Various",
-      "genre": "Bande Originale",
-      "year": "2018"
-    },
-    {
-      "album": "The best of Sade",
-      "artist": "Sade",
-      "genre": "Jazz, Funk / Soul, Blues",
-      "year": "1994"
-    },
-    {
-      "album": "Kaya",
-      "artist": "Bob Marley & The Wailers",
-      "genre": "Reggae",
-      "year": "2015"
-    },
-    {
-      "album": "Prose combat",
-      "artist": "MC Solaar",
-      "genre": "Hip Hop",
-      "year": "1993"
-    },
-    {
-      "album": "compilation",
-      "artist": "Michel Delpech",
-      "genre": "Chanson",
-      "year": "2024"
-    },
-    {
-      "album": "Le double best of",
-      "artist": "Aznavour",
-      "genre": "Chanson",
-      "year": "2019"
-    },
-    {
-      "album": "original soundtrack recording",
-      "artist": "The blues brothers",
-      "genre": "Rock, Blues",
-      "year": "1980"
-    },
-    {
-      "album": "Disco 78",
-      "artist": "Ennio Morricone",
-      "genre": "Bande Originale",
-      "year": "1977"
-    },
-    {
-      "album": "Remix me myself and i",
-      "artist": "De La Soul",
-      "genre": "Rap",
-      "year": ""
-    },
-    {
-      "album": "American star'n bars",
-      "artist": "Neil young",
-      "genre": "Folk, World, & Country",
-      "year": "1977"
-    },
-    {
-      "album": "Marathon",
-      "artist": "Santana",
-      "genre": "Rock",
-      "year": "1979"
-    },
-    {
-      "album": "Eagles live 86",
-      "artist": "the eagles",
-      "genre": "pop",
-      "year": "1980"
-    },
-    {
-      "album": "Live",
-      "artist": "Bob Marley & The Wailers",
-      "genre": "Reggae",
-      "year": "1975"
-    },
-    {
-      "album": "7 les trompettes de la renommé",
-      "artist": "Georges brassens",
-      "genre": "Chanson",
-      "year": ""
-    },
-    {
-      "album": "11 fernande",
-      "artist": "Georges brassens",
-      "genre": "Chanson",
-      "year": ""
-    },
-    {
-      "album": "Deep purple in concert",
-      "artist": "Deep purple",
-      "genre": "Rock",
-      "year": "1971"
-    },
-    {
-      "album": "polka",
-      "artist": "Thomas valverde",
-      "genre": "Classical",
-      "year": "2023"
-    },
-    {
-      "album": "Flick of the switch",
-      "artist": "AC/DC",
-      "genre": "Rock",
-      "year": "1983"
-    },
-    {
-      "album": "Let there be rock",
-      "artist": "AC/DC",
-      "genre": "Rock",
-      "year": "1977"
-    },
-    {
-      "album": "For those about the rock",
-      "artist": "AC/DC",
-      "genre": "Rock",
-      "year": "1981"
-    },
-    {
-      "album": "Higelin a mogador",
-      "artist": "Jacques higelin",
-      "genre": "Chanson",
-      "year": "1981"
     }
   ],
-  "updated_at": "2026-04-01T05:22:23.209883+00:00"
+  "updated_at": "2026-04-02T05:00:51.598460+00:00"
 }
