@@ -134,7 +134,25 @@
         "Cécile"
       ],
       "year": "2003"
+    },
+    {
+      "album": "Sarbacane",
+      "artist": "Francis Cabrel",
+      "genre": "Chanson",
+      "people": [
+        "Nico"
+      ],
+      "year": "1989"
+    },
+    {
+      "album": "Brest Of",
+      "artist": "Césaria Evora",
+      "genre": "",
+      "people": [
+        "Nico"
+      ],
+      "year": ""
     }
   ],
-  "updated_at": "2026-04-19T05:26:43.740398+00:00"
+  "updated_at": "2026-04-20T05:38:30.661537+00:00"
 }
