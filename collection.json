@@ -1129,6 +1129,12 @@
       "year": "1982"
     },
     {
+      "album": "Greatest Hits",
+      "artist": "The cure",
+      "genre": "Rock",
+      "year": "2001"
+    },
+    {
       "album": "The Doors",
       "artist": "The Doors",
       "genre": "Rock",
@@ -1291,5 +1297,5 @@
       "year": "1973"
     }
   ],
-  "updated_at": "2026-05-06T05:55:18.308483+00:00"
+  "updated_at": "2026-05-07T06:07:32.716599+00:00"
 }
