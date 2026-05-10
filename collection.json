@@ -1301,7 +1301,13 @@
       "artist": "Michael Jackson",
       "genre": "Pop",
       "year": "2001"
+    },
+    {
+      "album": "Second Helping",
+      "artist": "Lynyrd Skynyrd",
+      "genre": "Rock",
+      "year": "1974"
     }
   ],
-  "updated_at": "2026-05-09T05:46:44.162464+00:00"
+  "updated_at": "2026-05-10T06:09:30.072334+00:00"
 }
