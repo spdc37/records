@@ -55,6 +55,12 @@
       "year": "1998"
     },
     {
+      "album": "Métèque et mat",
+      "artist": "Akhenaton",
+      "genre": "Hip Hop",
+      "year": "1997"
+    },
+    {
       "album": "Friday Night In San Francisco",
       "artist": "Al Di Meola, John McLaughlin, Paco De Lucia",
       "genre": "Jazz, Latin",
@@ -793,6 +799,12 @@
       "year": "1973"
     },
     {
+      "album": "Second Helping",
+      "artist": "Lynyrd Skynyrd",
+      "genre": "Rock",
+      "year": "1974"
+    },
+    {
       "album": "Puta's Fever",
       "artist": "Mano Negra",
       "genre": "Rock",
@@ -857,6 +869,12 @@
       "artist": "Michael Jackson",
       "genre": "Electronic, Hip Hop, Rock, Funk / Soul, Pop",
       "year": "1991"
+    },
+    {
+      "album": "Invincible",
+      "artist": "Michael Jackson",
+      "genre": "Pop",
+      "year": "2001"
     },
     {
       "album": "compilation",
@@ -953,6 +971,12 @@
       "artist": "Phil Collins",
       "genre": "Rock, Pop",
       "year": "2016"
+    },
+    {
+      "album": "Fear of a black planet",
+      "artist": "Public enemy",
+      "genre": "Hip Hop",
+      "year": "1990"
     },
     {
       "album": "Les Chefs D'Œuvres de = The Masterpieces Of Pyotr Ilitch Tchaikovsky",
@@ -1295,19 +1319,7 @@
       "artist": "ZZ top",
       "genre": "Rock",
       "year": "1973"
-    },
-    {
-      "album": "Invincible",
-      "artist": "Michael Jackson",
-      "genre": "Pop",
-      "year": "2001"
-    },
-    {
-      "album": "Second Helping",
-      "artist": "Lynyrd Skynyrd",
-      "genre": "Rock",
-      "year": "1974"
     }
   ],
-  "updated_at": "2026-06-04T07:22:25.692444+00:00"
+  "updated_at": "2026-06-05T07:06:09.772476+00:00"
 }
