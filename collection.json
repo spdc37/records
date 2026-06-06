@@ -7,6 +7,12 @@
       "year": "1993"
     },
     {
+      "album": "People's instinctive travel",
+      "artist": "A tribe called quest",
+      "genre": "Hip Hop",
+      "year": "1990"
+    },
+    {
       "album": "Gold - Greatest Hits",
       "artist": "Abba",
       "genre": "Electronic, Rock, Pop",
@@ -1321,5 +1327,5 @@
       "year": "1973"
     }
   ],
-  "updated_at": "2026-06-05T07:06:09.772476+00:00"
+  "updated_at": "2026-06-06T06:28:54.546577+00:00"
 }
