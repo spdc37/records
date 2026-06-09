@@ -1075,6 +1075,12 @@
       "year": "1970"
     },
     {
+      "album": "Doggystyle",
+      "artist": "Snoop doggy dogg",
+      "genre": "Hip Hop",
+      "year": "2023"
+    },
+    {
       "album": "Tourist",
       "artist": "St Germain",
       "genre": "Jazz",
@@ -1327,5 +1333,5 @@
       "year": "1973"
     }
   ],
-  "updated_at": "2026-06-08T07:28:32.016516+00:00"
+  "updated_at": "2026-06-09T06:48:07.537891+00:00"
 }
