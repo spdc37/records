@@ -1069,6 +1069,12 @@
       "year": "1973"
     },
     {
+      "album": "Laundry service",
+      "artist": "Shakira",
+      "genre": "Pop",
+      "year": "2001"
+    },
+    {
       "album": "Bridge Over Troubled Water",
       "artist": "Simon And Garfunkel",
       "genre": "Pop",
@@ -1333,5 +1339,5 @@
       "year": "1973"
     }
   ],
-  "updated_at": "2026-06-11T07:27:54.679011+00:00"
+  "updated_at": "2026-06-12T07:20:34.999130+00:00"
 }
