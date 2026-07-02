@@ -919,10 +919,22 @@
       "year": "2025"
     },
     {
+      "album": "Illmatic",
+      "artist": "Nas",
+      "genre": "Hip Hop",
+      "year": "1994"
+    },
+    {
       "album": "American star'n bars",
       "artist": "Neil young",
       "genre": "Folk, World, & Country",
       "year": "1977"
+    },
+    {
+      "album": "Flammes",
+      "artist": "Niagara",
+      "genre": "Pop",
+      "year": "2016"
     },
     {
       "album": "MTV Unplugged In New York",
@@ -1339,5 +1351,5 @@
       "year": "1973"
     }
   ],
-  "updated_at": "2026-07-01T07:09:22.033297+00:00"
+  "updated_at": "2026-07-02T06:39:25.163986+00:00"
 }
