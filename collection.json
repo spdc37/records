@@ -793,6 +793,12 @@
       "year": "2018"
     },
     {
+      "album": "Louise attaque",
+      "artist": "Louise attaque",
+      "genre": "Chanson",
+      "year": "1997"
+    },
+    {
       "album": "Toutes Ses Opérettes N°3",
       "artist": "Luis Mariano",
       "genre": "Pop",
@@ -1351,5 +1357,5 @@
       "year": "1973"
     }
   ],
-  "updated_at": "2026-07-05T06:38:13.121966+00:00"
+  "updated_at": "2026-07-06T07:10:22.128367+00:00"
 }
