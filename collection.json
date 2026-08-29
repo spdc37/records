@@ -361,6 +361,12 @@
       "year": "2007"
     },
     {
+      "album": "Let's dance",
+      "artist": "David bowie",
+      "genre": "Pop Rock",
+      "year": "1983"
+    },
+    {
       "album": "De La Soul Is Dead",
       "artist": "De La Soul",
       "genre": "Hip Hop",
@@ -515,6 +521,12 @@
       "artist": "France Gall",
       "genre": "Pop",
       "year": "1981"
+    },
+    {
+      "album": "plus haut",
+      "artist": "France gall",
+      "genre": "Chanson",
+      "year": "2024"
     },
     {
       "album": "Samedi Soir Sur La Terre",
@@ -1357,5 +1369,5 @@
       "year": "1973"
     }
   ],
-  "updated_at": "2026-08-28T14:52:27.728965+00:00"
+  "updated_at": "2026-08-29T09:42:20.766439+00:00"
 }
