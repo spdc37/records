@@ -103,6 +103,12 @@
       "year": "1967"
     },
     {
+      "album": "album of the year",
+      "artist": "Art barkley",
+      "genre": "Jazz",
+      "year": "1981"
+    },
+    {
       "album": "Le double best of",
       "artist": "Aznavour",
       "genre": "Chanson",
@@ -257,6 +263,12 @@
       "artist": "Chic",
       "genre": "Funk / Soul, Pop",
       "year": "1980"
+    },
+    {
+      "album": "Friends",
+      "artist": "Chick corea",
+      "genre": "Jazz",
+      "year": "1978"
     },
     {
       "album": "Les Grands Musiciens - Les Grandes Valses Et Préludes",
@@ -1369,5 +1381,5 @@
       "year": "1973"
     }
   ],
-  "updated_at": "2026-09-03T07:45:48.294845+00:00"
+  "updated_at": "2026-09-04T07:41:23.920323+00:00"
 }
