@@ -493,6 +493,12 @@
       "year": "1986"
     },
     {
+      "album": "To bird with love",
+      "artist": "Eddie daniels",
+      "genre": "Jazz",
+      "year": "1987"
+    },
+    {
       "album": "Blue Moves",
       "artist": "Elton John",
       "genre": "Rock",
@@ -611,6 +617,12 @@
       "artist": "Horowitz, Chopin",
       "genre": "Classical",
       "year": "1978"
+    },
+    {
+      "album": "Classics of the masters of house music",
+      "artist": "House",
+      "genre": "Electronic",
+      "year": "2026"
     },
     {
       "album": "L'Ecole Du Micro D'Argent",
@@ -1387,5 +1399,5 @@
       "year": "1973"
     }
   ],
-  "updated_at": "2026-09-17T08:21:47.182964+00:00"
+  "updated_at": "2026-09-18T07:57:23.256634+00:00"
 }
