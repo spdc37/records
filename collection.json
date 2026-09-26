@@ -1321,6 +1321,12 @@
       "year": "1975"
     },
     {
+      "album": "L'elite",
+      "artist": "Trust",
+      "genre": "Rock",
+      "year": "1979"
+    },
+    {
       "album": "The joshua tree",
       "artist": "U2",
       "genre": "Pop Rock",
@@ -1399,5 +1405,5 @@
       "year": "1973"
     }
   ],
-  "updated_at": "2026-09-25T08:30:43.067707+00:00"
+  "updated_at": "2026-09-26T08:17:34.907952+00:00"
 }
