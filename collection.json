@@ -1409,7 +1409,13 @@
       "artist": "A tribe called quest",
       "genre": "Hip Hop",
       "year": "1990"
+    },
+    {
+      "album": "Izitso",
+      "artist": "Cat Stevens",
+      "genre": "Pop, Folk, World, & Country",
+      "year": "1977"
     }
   ],
-  "updated_at": "2026-10-12T10:11:49.820012+00:00"
+  "updated_at": "2026-10-13T10:04:32.542752+00:00"
 }
