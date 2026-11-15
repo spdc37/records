@@ -1427,7 +1427,25 @@
       "artist": "ZZ top",
       "genre": "Rock",
       "year": "1973"
+    },
+    {
+      "album": "Music from The Lord of the Rings",
+      "artist": "Various",
+      "genre": "Bande Originale",
+      "year": "2022"
+    },
+    {
+      "album": "La La Land",
+      "artist": "Various",
+      "genre": "Bande Originale",
+      "year": "2016"
+    },
+    {
+      "album": "Goodbye Primadonna",
+      "artist": "Marilyn Monroe",
+      "genre": "Bande Originale",
+      "year": "1981"
     }
   ],
-  "updated_at": "2026-11-14T09:47:38.138947+00:00"
+  "updated_at": "2026-11-15T10:22:15.058929+00:00"
 }
